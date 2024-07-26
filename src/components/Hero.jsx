@@ -6,9 +6,7 @@ const Hero = () => {
     <div className="bg-emerald-100 py-24">
       <div className="align-element   grid md:grid-cols-2 gap-8 items-center">
         <article>
-          <h1 className="capitalize text-7xl font-bold tracking-wider">
-            I'm mohammad
-          </h1>
+          <h1 className="capitalize tracking-wide lg:text-7xl md:text-5xl text-4xl  ">I'm mohammad</h1>
           <p className="mt-4 text-3xl text-slate-700 capitalize tracking-wide">
             Front-End React Developer
           </p>
